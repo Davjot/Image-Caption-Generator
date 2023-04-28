@@ -1,0 +1,2 @@
+write about models used: resnet50 and lstm 
+and all the steps involved in it. and dataset link.
